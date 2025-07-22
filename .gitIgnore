@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 node_modules/
 dist/
 outputs/
 test-filename
 custom-outputs
+=======
+node_modules
+.env
+>>>>>>> be284ec (testing finalizado)

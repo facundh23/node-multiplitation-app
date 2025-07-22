@@ -1,5 +1,4 @@
 import fs from "fs";
-
 export interface SaveFileUseCase {
   execute: (options: Options) => boolean;
 }

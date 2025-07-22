@@ -84,6 +84,11 @@ const config: Config = {
   //   "cjs",
   //   "jsx",
   //   "ts",
+<<<<<<< HEAD
+=======
+  //   "mts",
+  //   "cts",
+>>>>>>> be284ec (testing finalizado)
   //   "tsx",
   //   "json",
   //   "node"
@@ -156,8 +161,13 @@ const config: Config = {
 
   // The glob patterns Jest uses to detect test files
   // testMatch: [
+<<<<<<< HEAD
   //   "**/__tests__/**/*.[jt]s?(x)",
   //   "**/?(*.)+(spec|test).[tj]s?(x)"
+=======
+  //   "**/__tests__/**/*.?([mc])[jt]s?(x)",
+  //   "**/?(*.)+(spec|test).?([mc])[jt]s?(x)"
+>>>>>>> be284ec (testing finalizado)
   // ],
 
   // An array of regexp pattern strings that are matched against all test paths, matched tests are skipped
